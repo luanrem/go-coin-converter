@@ -1,0 +1,22 @@
+# Claude Code documentation
+CLAUDE.md
+
+# Compiled binaries
+main
+convert
+
+# Go build outputs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
